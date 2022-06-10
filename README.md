@@ -26,7 +26,7 @@ $ python --version
 Python 3.X.X 
 ```
 
-Si les aparece la versión todo OK pueden seguir. Caso contrario descarguen python desde este [link](https://www.python.org/downloads/).
+Si la version corresponde a la misma o es superior, se puede correr sin inconvenientes. De lo contrario se debe de descargar una version nueva de python desde este [link](https://www.python.org/downloads/).
 
 ## Instalar django
 
