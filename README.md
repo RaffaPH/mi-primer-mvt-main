@@ -1,6 +1,6 @@
-# Mi Primer MVT Django
+# CRUD ejemplo MVT
 
-Ejemplo de MVT para la clase de Coder House python, este codigo contiene:
+Este codigo contiene:
  - Vistas 
  - Formularios
  - Modelos
